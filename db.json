@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "author": "Ogbole",
+      "title": "Amodu",
+      "id": 1
+    },
+    {
+      "author": "Adole",
+      "title": "John",
+      "id": 2
+    },
+    {
+      "author": "Adole ",
+      "title": "Agbochenu",
+      "id": 3
+    },
+    {
+      "author": "John",
+      "title": "new-post",
+      "id": 4
+    },
+    {
+      "author": "John",
+      "title": "new-post",
+      "id": 5
+    }
+  ],
+  "user": [
+    "any"
+  ],
+  "blog": [
+    "any"
+  ]
+}
